@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "name": "Bryce Taylor",
+      "email": "bryce.taylor@cgi.com",
+      "password": "myFakePassword123!",
+      "phone_number": "6156156155",
+      "date_of_birth": "02/01/1990",
+      "role": "Admin",
+      "id": "91e8"
+    },
+    {
+      "name": "Cory Clark",
+      "email": "cory.e.clark@cgi.com",
+      "password": "myFakePassword321!",
+      "phone_number": "6153216547",
+      "date_of_birth": "02/02/1990",
+      "role": "Admin",
+      "id": "24d8"
+    },
+    {
+      "id": "aeab",
+      "email": "user3@email.com",
+      "password": "user3Password!",
+      "date_of_birth": "",
+      "name": "Fake User3",
+      "phone_number": "6153216547",
+      "role": "User"
+    }
+  ]
+}
